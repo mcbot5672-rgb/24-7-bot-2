@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "INVINCIBLE.aternos.me",
-    "port": 21549,
+    "ip": "notlolsmp.aternos.me",
+    "port": 36534,
     "version": "1.20.1",
     "try-creative": false
   },
