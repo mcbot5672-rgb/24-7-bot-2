@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "bot247",
+    "username": "DRloo",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "notlolsmp.aternos.me",
-    "port": 36534,
-    "version": "1.20.1",
+    "ip": "videos-69r3.aternos.me",
+    "port": 49884,
+    "version": "1.21.4",
     "try-creative": false
   },
   "position": {
@@ -27,8 +27,8 @@
       "sneak": true
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 120,
       "messages": [
         "BECOME invincible",
